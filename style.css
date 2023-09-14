@@ -26,8 +26,8 @@ body {
   margin-bottom: 25px;
 }
 #ToDo .box input {
-  height: 65px;
-  width: 225px;
+  height: 55px;
+  width: 200px;
   border: 2px solid white;
   border-radius: 25px;
   font-size: 19px;
